@@ -1,5 +1,5 @@
 # BlinkIT Grocery Data Dashboard
-123456789
+12345678
 This project provides insights into grocery data using Power BI, focusing on sales trends, customer behavior, and order distribution. The analysis demonstrates key Power BI features and advanced data visualization techniques.
 
 ## Table of Contents
