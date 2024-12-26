@@ -1,4 +1,6 @@
 
+<img src="https://github.com/ashu-kudesiya/Blinkit-Sales-Insights-Dashboard/blob/main/Blinkit%20Data/blinkit%20Logo.png" width="222">
+
 # BlinkIT Grocery Data Dashboard
 
 This project provides insights into grocery data using Power BI, focusing on sales trends, customer behavior, and order distribution. The analysis demonstrates key Power BI features and advanced data visualization techniques.
